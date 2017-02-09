@@ -1,4 +1,8 @@
 ---
+- section: Home
+  shortpath: home
+  path: /
+
 - section: Start
   shortpath: start
   path: /2.0/start/
@@ -26,3 +30,11 @@
     path: /2.0/toolbox/templates
     indent: True
   - endheader: true
+
+- section: Blog
+  shortpath: blog
+  path: /blog
+
+- section: Community
+  shortpath: community
+  path: /about
