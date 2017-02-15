@@ -233,7 +233,7 @@
 
 - section: Blog
   shortpath: blog
-  path: /blog
+  path: /blog/
 
 - section: Community
   shortpath: community
